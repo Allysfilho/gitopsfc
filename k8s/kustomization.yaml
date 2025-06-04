@@ -6,4 +6,4 @@ resources:
 images:
 - name: goserver
   newName: allysfilho/gitopsfc
-  newTag: 2729c0f9f266663ffd099ebb8311e7bcf3ce62b3
+  newTag: 0fbdafeed5f969ab8334f14f0a7a8ddeb9e2005e
